@@ -8,7 +8,7 @@ Actualmente me desempeño como ayudante de catedra en los siguientes cursos:
 
 * Tecnología y Empresa para Ingenieria Comercial.
 
-* Actualmente me desempeño como encargado del área de CADEMILabs en [CADEMI](https://cademi.org/).
+Actualmente me desempeño como encargado del área de CADEMILabs en [CADEMI](https://cademi.org/).
 
 Realicé mi práctica operativa en el año 2020 ejecutando funciones de asesoria y apoyo en el área de gestión e implementación de tecnologias administrativas a la empresa [Tejas Chile](https://www.tejas.cl/).
 
