@@ -1,5 +1,3 @@
-# Ignacio Zamora
-
 # Sobre mí
 
 Mi nombre es Ignacio Zamora, soy estudiante de Ingenieria Comercial de la Universidad Diego Portales. Mis intereses son área Ciencia de Datos y mis temas afines son el Análisis de Datos, Inteligencia Artificial, Métodos Cuantitativos y Programación Estadística. Además, me complemento con una variedad de habilidades de Liderazgo, Gestión de Equipos, Aprendizaje Autodidácta y Ámbitos Académicos.
