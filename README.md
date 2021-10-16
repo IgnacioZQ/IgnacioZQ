@@ -1,6 +1,8 @@
 # Sobre mí
 
-Mi nombre es Ignacio Zamora, soy estudiante de Ingenieria Comercial de la Universidad Diego Portales. Mis intereses son área Ciencia de Datos y Medicina. Mis temas afines son el Análisis de Datos, Inteligencia Artificial, Métodos Cuantitativos y Programación Estadística. Además, me complemento con una variedad de habilidades de Liderazgo, Gestión de Equipos, Gestión de Proyectos, Aprendizaje Autodidácta y Ámbitos Académicos. Tengo fuerte interés por las áreas de la Medicina y l innovación.
+Mi nombre es Ignacio Zamora, soy estudiante de Ingenieria Comercial de la Universidad Diego Portales. Mis intereses son área Ciencia de Datos y Medicina. Mis temas afines son el Análisis de Datos, Inteligencia Artificial, Métodos Cuantitativos y Programación Estadística. Además, me complemento con una variedad de habilidades de Liderazgo, Gestión de Equipos, Gestión de Proyectos, Aprendizaje Autodidácta y Ámbitos Académicos. Tengo fuerte interés por las áreas de la Medicina y la innovación.
+
+[PERFIL DE GITHUB](https://github.com/IgnacioZQ/IgnacioZQ/edit/main/README.md).
 
 **Experiencia**
 
