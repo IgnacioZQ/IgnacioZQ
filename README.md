@@ -11,7 +11,7 @@ Mi nombre es Ignacio Zamora, soy estudiante de Ingenieria Comercial de la Univer
 
 Actualmente me desempeño como encargado del área de CADEMILabs en [CADEMI](https://cademi.org/).
 
-Realicé mi práctica operativa en el año 2020 ejecutando funciones de asesoria y apoyo en el área de gestión e implementación de tecnologias administrativas a la empresa [Tejas Chile](https://www.tejas.cl/).
+Realicé mi práctica operativa en el año 2020 ejecutando funciones de asesoria y apoyo en el área de gestión, RRHH, Finanzas e implementación de tecnologias administrativas [Tejas Chile](https://www.tejas.cl/).
 
 Me desempeñé en el año 2018 como asistente de Ventas en el área de la industria comercial en la empresa [Adidas](https://www.adidas.cl/).
 
@@ -24,6 +24,7 @@ Me desempeñé en el año 2018 como asistente de Ventas en el área de la indust
 * Dominio avanzado de R
 * Dominio básico de Excel
 * Dominio básico de Python
+* Dominio Medio de Power BI
 
 **Contacto**
 
